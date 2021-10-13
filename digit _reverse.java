@@ -1,8 +1,7 @@
-import java.io.*;
 import java.util.*;
+import java.io.*;
 
 class digit_rev{
-
     public static void main(String[] args)
     {
         int number=54321;
